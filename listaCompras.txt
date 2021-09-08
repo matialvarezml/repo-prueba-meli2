@@ -4,7 +4,13 @@ lechuga
 tomate
 cebolla
 queso cremoso
+<<<<<<< HEAD
 huevos
 harina
 aceite
 vinagre
+=======
+queso rallado
+5 manzanas
+12 naranjas
+>>>>>>> feature/lista2
