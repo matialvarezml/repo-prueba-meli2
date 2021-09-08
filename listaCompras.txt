@@ -4,3 +4,6 @@ lechuga
 tomate
 cebolla
 queso cremoso
+queso rallado
+5 manzanas
+12 naranjas
